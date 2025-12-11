@@ -45,6 +45,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 This project is licensed under the MIT License.
 ## Learn More
-React Documentation
-
-Create React App Guide
+- [React Docs](https://react.dev/)
+- [Create React App Docs](https://create-react-app.dev/)
