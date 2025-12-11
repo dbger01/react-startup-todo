@@ -47,3 +47,7 @@ This project is licensed under the MIT License.
 ## Learn More
 - [React Docs](https://react.dev/)
 - [Create React App Docs](https://create-react-app.dev/)
+
+## Documentation
+For detailed workflow notes and commands log, see the [Google Docs Documentation](https://docs.google.com/your-doc-link)
+  
